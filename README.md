@@ -19,7 +19,7 @@
   
   <img align="center" alt="Ferraz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ferraz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Ferraz-pic" height="170" style="border-radius:50px;" src="https://icon-library.com/images/avatar-icon-images/avatar-icon-images-4.jpg">
+  <img align="right" alt="Ferraz-pic" height="170" style="border-radius:50px;" src="https://i.pinimg.com/564x/cb/b6/07/cbb6075a0c20049e8d5109fb2306e924.jpg">
 </div>
   
   ##
