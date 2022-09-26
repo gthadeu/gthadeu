@@ -1,4 +1,4 @@
-## Hi I'm Guilherme Thadeu, Backend/Frontend Developer at Qodeless Company!
+## Hi I'm Guilherme Thadeu, Backend Developer at Qodeless Company!
 <div align="center">
   <a href="https://github.com/gthadeu">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gthadeu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
