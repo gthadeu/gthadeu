@@ -27,7 +27,15 @@
 
 ###
 
-<p align="left">I'm passionate about technology and coding, with a knack for full-stack development and DevOps practices. Currently, I'm diving into the latest trends in the tech world, exploring new tools, and expanding my skill set.</p>
+<p align="left">I'm a passionate individual hailing from Brazil. With a deep love for both code and games, I've found my calling in the world of software development. Currently, I serve as a Chief Software Architect, where I lead teams in crafting innovative solutions and architecting robust software systems.
+
+My expertise spans across the full stack of technologies, allowing me to tackle challenges from backend to frontend with ease. I'm always exploring the latest trends and advancements in technology, constantly seeking to broaden my knowledge and skill set.
+
+One of my notable achievements includes developing a dynamic graph generation system that takes query data and seamlessly integrates it into the frontend. Leveraging GraphQL endpoints that I've created, I've empowered users to visualize data in real-time, all with a touch of front-end magic.
+
+When it comes to coding, I thrive on the thrill of problem-solving and the satisfaction of bringing ideas to life. I believe in the power of continuous improvement, both personally and professionally, and I'm dedicated to honing my craft every step of the way.
+
+In my free time, you'll find me immersed in the world of gaming, exploring new technologies, or simply enjoying the great outdoors. I'm always up for a challenge, and I'm excited to see where the world of technology takes me next!</p>
 
 ###
 
