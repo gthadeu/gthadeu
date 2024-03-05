@@ -69,6 +69,7 @@ In my free time, you'll find me immersed in the world of gaming, exploring new t
 
 ###
 
+![snake gif](https://github.com/gthadeu/gthadeu/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gthadeu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
