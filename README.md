@@ -27,15 +27,7 @@
 
 ###
 
-<p align="left">I'm a passionate individual hailing from Brazil. With a deep love for both code and games, I've found my calling in the world of software development. Currently, I serve as a Chief Software Architect, where I lead teams in crafting innovative solutions and architecting robust software systems.
-
-My expertise spans across the full stack of technologies, allowing me to tackle challenges from backend to frontend with ease. I'm always exploring the latest trends and advancements in technology, constantly seeking to broaden my knowledge and skill set.
-
-One of my notable achievements includes developing a dynamic graph generation system that takes query data and seamlessly integrates it into the frontend. Leveraging GraphQL endpoints that I've created, I've empowered users to visualize data in real-time, all with a touch of front-end magic.
-
-When it comes to coding, I thrive on the thrill of problem-solving and the satisfaction of bringing ideas to life. I believe in the power of continuous improvement, both personally and professionally, and I'm dedicated to honing my craft every step of the way.
-
-In my free time, you'll find me immersed in the world of gaming, exploring new technologies, or simply enjoying the great outdoors. I'm always up for a challenge, and I'm excited to see where the world of technology takes me next!</p>
+<p align="left">Passionate individual from Brazil is a Chief Software Architect leading teams in crafting innovative solutions and architecting robust software systems. With expertise spanning the full stack of technologies, they tackle challenges from backend to frontend effortlessly. They're dedicated to continuous improvement and enjoy problem-solving. Notable achievements include developing a dynamic graph generation system leveraging GraphQL endpoints for real-time data visualization. In their free time, they immerse themselves in gaming, explore new technologies, and enjoy the outdoors. Always up for a challenge, they're excited to see where technology takes them next.</p>
 
 ###
 
