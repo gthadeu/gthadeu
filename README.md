@@ -1,69 +1,83 @@
 <div align="center">
-  <img align="center" alt="Thadeu-pic" height="150" style="border-radius: 70%;" src="https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif">
+  <a href="mailto:thadeu.qodeless@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-thadeu-horta-50563b129/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <a href = "mailto:thadeu.qodeless@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-thadeu-horta-50563b129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gthadeu" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermethadeu.guilhermethadeu&"  />
+<h1 align="center">Guilherme Thadeu</h1>
+
+<h3 align="center">
+Backend-focused Software Engineer • Architecture-oriented
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **backend-focused software engineer** with **6 years of experience**, currently working primarily with **.NET and TypeScript**, designing and maintaining scalable backend systems and APIs.
+
+Throughout my career, I've worked across **multiple languages, frameworks, and environments**, often stepping into unfamiliar stacks and applying strong **software engineering and architectural principles**, regardless of technology.
+
+I've contributed to projects for organizations such as **SENAC**, **SPC**, and enterprise environments through **JLL** and **J3**, where my company provides software services. Today, I hold architectural responsibilities within my team, focusing on **system design, maintainability, and scalability**.
+
+---
+
+## 🧠 Current Focus
+- Backend architecture & system design  
+- API development and integrations  
+- Scalable, maintainable services  
+- Applying architectural concepts across different stacks  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Current & Core
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 </div>
 
-###
-
-<h1 align="center">Hey there, I'm Guilherme Thadeu! 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">Passionate individual from Brazil is a Chief Software Architect leading teams in crafting innovative solutions and architecting robust software systems. With expertise spanning the full stack of technologies, they tackle challenges from backend to frontend effortlessly. They're dedicated to continuous improvement and enjoy problem-solving. Notable achievements include developing a dynamic graph generation system leveraging GraphQL endpoints for real-time data visualization. In their free time, they immerse themselves in gaming, explore new technologies, and enjoy the outdoors. Always up for a challenge, they're excited to see where technology takes them next.</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
-  <img width="12" />
-  <img height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width="12" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img width="12" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img width="12" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img width="12" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-  <img width="12" />
- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width="12" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-  <img width="12" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+### 🧩 Strong Experience
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </div>
 
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gthadeu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gthadeu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+### 🧪 Past Experience
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img width="12"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
-
-###
