@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="mailto:thadeu.qodeless@outlook.com">
+  <a href="mailto:guilhermetadeuh@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-thadeu-horta-50563b129/" target="_blank">
